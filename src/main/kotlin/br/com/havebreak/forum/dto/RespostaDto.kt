@@ -1,6 +1,5 @@
 package br.com.havebreak.forum.dto
 
-import br.com.havebreak.forum.model.Resposta
 import java.time.LocalDateTime
 
 data class RespostaDto(
