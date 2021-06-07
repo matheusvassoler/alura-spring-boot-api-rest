@@ -26,7 +26,6 @@ class ErroDeValidacaoHandler {
             val erro = ErroDeFormularioDto(it.field, mensagem)
             dto.add(erro)
         }
-        print("SAJDHJASDHJHDJHD")
         return dto
     }
 }
